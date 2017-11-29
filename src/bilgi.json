@@ -1,0 +1,112 @@
+{
+    "name":"Burcu Altınok",
+    "image":"https://pbs.twimg.com/profile_images/918234315435200512/WvLCdc-w_400x400.jpg",
+    "email":"mail@burcualtinok.com.tr",
+    "phone":"095452497980",
+    "website":"http://burcualtinok.com.tr",
+    "twitterlink":"http://twitter.com/altnokburcu",
+    "twitter":"altnokburcu",
+    "Experiences":[
+        {
+            "baslik":"Teknovol",
+            "lokasyon":"SDÜ , Isparta",
+            "tarih":"Şubat 2017 ",
+            "aciklama":"SDÜ Teknokentinde bulunan Teknovol şirketinde Web Developer olarak çalışıyorum.Wordpress temalar üzerinde çalışıyorum. Ayrıca sosyal medya yönetimi üzerine çalışıyorum"
+        },
+        {
+            "baslik":"Arjeta Bilişim",
+            "lokasyon":"SDÜ , Isparta",
+            "tarih":"Haziran 2017 - Temmuz 2017 ",
+            "aciklama":"SDÜ Teknokentinde bulunan Arjeta Bilişimde donanım stajını yaptım."
+        },
+        {
+            "baslik":"Avatek Yazılım",
+            "lokasyon":"Bayraklı , İzmir",
+            "tarih":"Temmuz 2016 - Ağustos 2016 ",
+            "aciklama":"İzmirde bulunan Avatek Yazılımda 2 ay süre ile yazılım stajımı yaptım. HTML,CSS , ASP.NET MVC üzerine çalıştım. Staj bitiminde .Net MVC üzerine bir proje yaptım."
+        }
+    ],
+    "Career":" Şu an Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği bölümünde 4.sınıfım. Ayrıca şu an Süleyman Demirel Üniversitesi Teknokent’inde bulunan TEKNOVOL şirketinde çalışıyorum. Çeşitli web projelerinde görev almakla birlikte Sosyal Medya Yönetimi,Dijital Pazarlama gibi konularda çalışmalar yürütüyorum. ",
+    "ProjectsDescription":"Github üzerinde bulunan projelerim.",
+    "Projects":[
+        {
+            "projectName":"Haber Oku - HürriyetAPI",
+            "url":"https://github.com/altnokburcu/haberOku",
+            "aciklama":"Android Studio'da Hurriyet API kullandığım projedir.Projenin içerisinde Hurriyet API kullanımına ulaşabilirsiniz."
+        },
+        {
+            "projectName":"Basit Toplama Oyunu",
+            "url":"https://github.com/altnokburcu/simple-aggregation-game",
+            "aciklama":"ReactJS kullanarak yazdığım basit toplama oyunudur."
+        },
+        {
+            "projectName":"Sipariş Uygulaması",
+            "url":"https://github.com/altnokburcu/kafe-otomasyonu-master",
+            "aciklama":"Kafe/Restaurantlarda kullanılabilecek bir android-firebase projesidir. "
+        },
+        {
+            "projectName":"Öneriyorum",
+            "url":"https://github.com/altnokburcu/Oneriyorum",
+            "aciklama":"Linux Yaz Kampı 2017'de Django ile Web Programlama kursunda geliştirdiğimiz önerilerin listelendiği django projesidir."
+        }
+    ],
+    "Skills":[
+        {
+            "skill":"C",
+            "yuzde":"60%"
+        },
+        {
+            "skill":"Java",
+            "yuzde":"60%"
+        },
+        {
+            "skill":"Python",
+            "yuzde":"50%"
+        },
+        {
+            "skill":"JavaScript",
+            "yuzde":"40%"
+        },
+        {
+            "skill":"Django",
+            "yuzde":"30%"
+        },
+        {
+            "skill":"MVC",
+            "yuzde":"20%"
+        }
+    ],
+
+   "Education" : [
+      {
+        "baslik": "Science-Mathematics",
+        "icerik": "Tire Kutsan Anatolian High School",
+        "tarih": "2009 - 2013"
+      },
+      {
+        "baslik": "Computer Engineering",
+        "icerik": "Süleyman Demirel University",
+        "tarih": "2013 - 2018"
+      }
+    ],
+
+    "Languages": [
+      {
+        "dil": "Turkish",
+        "derece": "Native"
+      },
+      {
+        "dil": "English",
+        "derece": "Intermediate"
+      }
+    ],
+
+    "Interests": [
+      {"hobi": "Travelling"},
+      {"hobi": "Taking Photo"},
+      {"hobi": "Social Media"},
+      {"hobi": "Swim"},
+      {"hobi": "Vacation"}
+    ]
+
+}
